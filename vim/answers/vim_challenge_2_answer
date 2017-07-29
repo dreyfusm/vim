@@ -1,0 +1,8 @@
+Here are the steps to create the file:
+1. Navigate to your home directory. ( cd ~ )
+2. Create your .vimrc file. ( vim .vimrc)
+3. In vim, press i to insert and type,  syntax on
+4. Press enter to goto the next line and type, set number
+5. Press 'Esc' and type :wq and press enter.
+6. You have now created your .vimrc file! You can verify by running 'ls -a'
+7. Open a file and see what happens!

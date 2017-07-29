@@ -1,0 +1,17 @@
+For your first challenge, start by deleting my name out of the sentence below
+and replacing it with yours. Then create a new line using the commands we learned
+and tell me what operating system you are using. When you are finished. Save the file.
+Remember here are the basic commands that we've covered in this chapter
+        i - insert (this allows you to write text. When you're done press ESC)
+        h,j,k,l - This allows you to navigate around the document. (The arrow keys
+                  are just as acceptable too!)
+        x - delete text
+        o - create a new line to insert into
+        u - undo
+        crtl-R -redo
+        zz - saves your work and quits
+------------------------------------------------------------------------------------
+My name is Mike and this is my first sentence in vim! Woohoo!
+I am using OSX.
+
+

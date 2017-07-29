@@ -1,0 +1,3 @@
+## the contents of your vimrc file should look like the following
+syntax on
+set number

@@ -1,0 +1,5 @@
+Vim challenge 3: Navigation answers. 
+1) In normal mode, press G to goto the end of the file
+2) To move your cursor to the end of the file, type $. goto line 211, in normal mode type :211
+3) To find the word Philadelphia, type in normal mode /Philadelphia and press enter. Press 'n' togoto the next occurance of the word. To navigate to the beginning of the line, press '0'
+4) To goto the beginning of the file, press gg in normal mode.

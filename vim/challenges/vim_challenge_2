@@ -1,0 +1,11 @@
+For this challenge, you're going to create a .vimrc file in your home directory. Creating this
+configuration file will allow you to set configurations and customizations for your editor 
+everytime you open a browser. For our situation, lets add the following lines to our .vimrc file.
+
+syntax on
+set number
+
+When you are done. Save the file. You will notice that if you try to run "ls", you will not see
+the file. This is because the '.' lets bash know that it's a configuration file and to not 
+display it. To see your file, run 'ls -a'. I have included a sample file that you can use to
+compare or use.

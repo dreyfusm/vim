@@ -1,0 +1,8 @@
+Vim Challenge 4: Deleteing and Appending answers
+
+1. Type 10dd in normal mode.
+2. Type :5d
+3. Move the cursor to the beginning of the V in vim and press v to enter visual mode. Then move
+the cursor to the last 'o' in nano and press 'y' to yank. then move to the end of the line and
+type 250p. 
+4. To delete the rest of the file, you can type dG ( press d then shift + g)a
